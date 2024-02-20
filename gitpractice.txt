@@ -1,1 +1,2 @@
-clone project:
+clone project: add vlues in git hub
+ of project
