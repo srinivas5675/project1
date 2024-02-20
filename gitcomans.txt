@@ -1,7 +1,11 @@
 1.clone the project:
 git clone url
+pull the latest code 
+and do your changes
 2.change identification: already existing file change or new file creation we can see in source control
 
 3.commit changes:
 a.stage you r changes
 b. type commit message and commit your changes
+
+4.push your changes
