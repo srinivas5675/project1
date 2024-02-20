@@ -1,0 +1,7 @@
+1.clone the project:
+git clone url
+2.change identification: already existing file change or new file creation we can see in source control
+
+3.commit changes:
+a.stage you r changes
+b. type commit message and commit your changes
