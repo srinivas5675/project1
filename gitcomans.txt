@@ -14,4 +14,22 @@ Git commands through command line interface(cli):
 1. pull command:
 git pull origin branchName
 
+2.changes identification:
+git status
+
+3.stage your changes:
+git add .
+
+4.commit changes:
+git commit -m "commit message"
+
+5. push your code:
+git push origin
+
+
+
+
+
+
+
 
