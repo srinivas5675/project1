@@ -9,3 +9,9 @@ a.stage you r changes
 b. type commit message and commit your changes
 
 4.push your changes
+
+Git commands through command line interface(cli):
+1. pull command:
+git pull origin branchName
+
+
